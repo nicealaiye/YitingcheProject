@@ -1,0 +1,8 @@
+#ignore build contents
+build/*
+#exclude temp nib and swap files
+*~.nib
+*.swp
+#exclude os x files and contents's attribute
+.DS_Store
+
