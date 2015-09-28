@@ -6,8 +6,8 @@
 //  Copyright (c) 2015年 JenuryCheng. All rights reserved.
 //
 
-#ifndef UJob_Macro_h
-#define UJob_Macro_h
+#ifndef Macro_h
+#define Macro_h
 
 #import "UIView+MJExtension.h"
 
@@ -39,13 +39,5 @@
 #define FONT_BIG        [UIFont systemFontOfSize:20]
 
 #define CC_SIGN    Global_Sign = YES;
-
-#define KEY_MAP     @"e261ec894bbd26dde794faf02de4266b"
-
-//ShareSDK  debug
-#define SHARE_SDK_SMS_KEY       @"5b2655c71290"//@"aad5b98f5640"
-#define SHARE_SDK_SMS_SECRET    @"55988074b9a3faadffa6f74cd3ae7845"//@"f28315a4fa8eca5fa2b6470695996d78"
-
-#define SHARE_SDK_KEY           @"ad76ad78ad02"
 
 #endif
